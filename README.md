@@ -24,8 +24,6 @@
 ✨ I turn ideas into impactful digital products.  
 🌱 I’m always eager to **learn new technologies and skills**, and improve continuously.  
 
-**Keywords for search optimization:** Mobile Developer, Web Developer, Full-Stack, Laravel, Vue.js, Node.js, PHP, SQL, MongoDB, REST API
-
 ---
 
 ## 🎯 Interests & Hobbies
