@@ -17,12 +17,14 @@
 
 ## 🚀 About Me
 
-💻 Passionate Mobile & Web Developer crafting scalable and performant applications.  
-🔎 Specialized in back-end development, API design, and full-stack solutions.  
-⚡ Strong skills in software architecture, debugging, and optimizing performance.  
+💻 Hi, I'm **Emmanuel Souwouin**, a Mobile & Web Developer passionate about building scalable, efficient, and user-friendly applications.  
+🔎 Experienced in **full-stack development**, back-end systems, REST API design, and performance optimization.  
+⚡ Strong skills in software architecture, debugging, and problem solving.  
 
-✨ I turn ideas into digital products that make an impact.  
-🌱 Always eager to **learn new things** and expand my skills.
+✨ I turn ideas into impactful digital products.  
+🌱 I’m always eager to **learn new technologies and skills**, and improve continuously.  
+
+**Keywords for search optimization:** Mobile Developer, Web Developer, Full-Stack, Laravel, Vue.js, Node.js, PHP, SQL, MongoDB, REST API
 
 ---
 
