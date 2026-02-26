@@ -40,7 +40,7 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,java,php,cpp,c" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
@@ -50,9 +50,8 @@
 
 ### 🗄 Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,sqlite,postgres" />
 </p>
-Additional: Oracle, SQLite, SQL
 
 ### 🔧 Tools & Methods
 - Git / GitHub / GitLab  
