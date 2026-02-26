@@ -63,18 +63,6 @@ Additional: Oracle, SQLite, PostgreSQL, SQL
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelNoel&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelNoel&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 💡 Fun Facts
 
 - 🕹️ I can spend hours coding and watching anime at the same time  
