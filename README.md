@@ -50,8 +50,9 @@
 
 ### 🗄 Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,sqlite,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
+Additional: Oracle, SQLite, PostgreSQL, SQL
 
 ### 🔧 Tools & Methods
 - Git / GitHub / GitLab  
@@ -65,7 +66,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelNoel&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelNoel&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
