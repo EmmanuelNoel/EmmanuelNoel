@@ -75,16 +75,6 @@ Additional: Oracle, SQLite, SQL
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Tech Stack | Demo / Repo |
-|---------|------------|-------------|
-| **Woway** | Laravel, Vue, Tailwind | [GitHub](https://github.com/EmmanuelNoel) |
-| **Booking App** | Node.js, Express, MongoDB | [GitHub](https://github.com/EmmanuelNoel) |
-| **Portfolio** | HTML, CSS, JS | [Live](https://emmanuelnoel.github.io) |
-
----
-
 ## 💡 Fun Facts
 
 - 🕹️ I can spend hours coding and watching anime at the same time  
