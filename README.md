@@ -81,3 +81,10 @@ Additional: Oracle, SQLite, PostgreSQL, SQL
 📧 jahounoel@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/emmanuel-souwouin)  
 🐙 [GitHub](https://github.com/EmmanuelNoel) -->
+
+# Hi, I'm Emmanuel 👋
+
+💻 Mobile & Web Developer
+
+[GitHub](https://github.com/EmmanuelNoel)  
+[LinkedIn](https://linkedin.com/in/emmanuel-souwouin)
