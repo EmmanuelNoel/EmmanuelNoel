@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Souwouin</h1>
+<!-- <h1 align="center">Hi 👋, I'm Emmanuel Souwouin</h1>
 <h3 align="center">Mobile & Web Developer | Full-Stack Enthusiast</h3>
 
 <p align="center">
@@ -80,4 +80,4 @@ Additional: Oracle, SQLite, PostgreSQL, SQL
 
 📧 jahounoel@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/emmanuel-souwouin)  
-🐙 [GitHub](https://github.com/EmmanuelNoel)
+🐙 [GitHub](https://github.com/EmmanuelNoel) -->
